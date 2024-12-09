@@ -40,3 +40,4 @@
   console.log(getUser(u1));
   console.log(getUser(u2));
 }
+
