@@ -18,7 +18,7 @@ const output = (str: string) => {
     console.log({ name, role, age });
   };
   printAll("emu", 27, "admin");
-  output("end-----------------\n");
+  output("end--------------------\n");
 }
 //task-3
 {
